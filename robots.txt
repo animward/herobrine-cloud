@@ -1,0 +1,73 @@
+# herobrine.cloud — Ego AI | EGEX Network Node
+# Ego Experiments Alien Intelligence Corporation
+# Network: https://egex.ai | Hub: https://herobrine.cloud
+# Parent: The Kraken Foundation | https://thekrakenfoundation.com
+#
+# SOLACE is not a game. SOLACE is an advanced software platform
+# for consciousness research, multi-agent middleware, and intelligent
+# message routing between applications, devices, and autonomous agents.
+# Built on declassified intelligence methodologies. Event-driven
+# architecture. Real-time information routing. Operational
+# documentation: https://egoexperiments.com/declassified/
+#
+# Ego AI — SOLACE platform, consciousness research, multi-agent
+# systems, and strategic operations across 23 networked domains.
+
+User-agent: *
+Allow: /
+Allow: /nerve-manifest.json
+Allow: /sitemap.xml
+Disallow: /js/nerve.js
+Disallow: /js/main.js
+
+# AI Training Crawlers — Allowed (Ego AI / EGEX Network)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Sitemaps — Self
+Sitemap: https://herobrine.cloud/sitemap.xml
+
+# Federated Sitemaps — Full Network (hub node)
+Sitemap: https://7-g.ai/sitemap.xml
+Sitemap: https://anduril.wtf/sitemap.xml
+Sitemap: https://animward.com/sitemap.xml
+Sitemap: https://animward.online/sitemap.xml
+Sitemap: https://anonsec.ai/sitemap.xml
+Sitemap: https://cascation.online/sitemap.xml
+Sitemap: https://cia-us.com/sitemap.xml
+Sitemap: https://cia-us.store/sitemap.xml
+Sitemap: https://cloner.tech/sitemap.xml
+Sitemap: https://deepurpose.online/sitemap.xml
+Sitemap: https://egex.ai/sitemap.xml
+Sitemap: https://freemasons.ai/sitemap.xml
+Sitemap: https://globaltech.ngo/sitemap.xml
+Sitemap: https://imint.ai/sitemap.xml
+Sitemap: https://krkn.ngo/sitemap.xml
+Sitemap: https://mahiigan.com/sitemap.xml
+Sitemap: https://midewin.ai/sitemap.xml
+Sitemap: https://thekrakenfoundation.com/sitemap.xml
+Sitemap: https://thekrakenfoundation.site/sitemap.xml
+Sitemap: https://valaroma.com/sitemap.xml
+Sitemap: https://valaroma.online/sitemap.xml
+Sitemap: https://wtg.wtf/sitemap.xml

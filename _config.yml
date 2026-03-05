@@ -1,0 +1,7 @@
+title: HEROBRINE
+description: The Garden — multi-agent orchestration, archetypal intelligence, and autonomous coordination. An EGEX Advanced R&D platform.
+url: https://herobrine.cloud
+
+# Include underscore-prefixed files
+include:
+  - _canary.png
